@@ -1,0 +1,2 @@
+; want to ignore this file as it has sensitive information
+.env 
