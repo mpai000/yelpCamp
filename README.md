@@ -1,5 +1,5 @@
 # YelCamp
-### A full-stack Node.js webiste from a Udemy Course: [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+### A full-stack Node.js website from a Udemy Course: [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 **Built with:** MongoDB, Node.js and Express
 
