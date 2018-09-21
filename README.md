@@ -3,7 +3,7 @@
 
 **Built with:** MongoDB, Node.js and Express
 
-#### Cutsom Features:
+#### Custom Features:
 - Improved the login and sign-up pages
 - Can add Campground location with Google Maps
 - Included a fuzzy search feature
