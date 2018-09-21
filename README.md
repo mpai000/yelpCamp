@@ -5,5 +5,5 @@
 
 #### Cutsom Features:
 - Improved the login and sign-up pages
-- Add Campground locattion with Google Maps
+- Can add Campground location with Google Maps
 - Included a fuzzy search feature
