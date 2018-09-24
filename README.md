@@ -9,4 +9,4 @@
 - Included a fuzzy search feature
 
 #### Website is deployed using heroku. 
-View Webite: https://yelp-camp-website.herokuapp.com/
+View Webste: https://yelp-camp-website.herokuapp.com/
